@@ -1,2 +1,2 @@
 # CodeWars
-My CodeWars Python Solutions
+Some of my CodeWars Python solutions; (updated randomly)
