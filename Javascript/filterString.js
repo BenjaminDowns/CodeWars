@@ -1,0 +1,1 @@
+const FilterString = (value) => +value.split('').filter(c => /\d/.test(c)).join('');
