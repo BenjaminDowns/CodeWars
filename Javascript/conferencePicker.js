@@ -1,0 +1,1 @@
+const conferencePicker = (cV, cO) => cO.filter(x => cV.indexOf(x) < 0)[0] || 'No worthwhile conferences this year!'
